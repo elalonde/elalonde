@@ -17,6 +17,6 @@ Systems developer. 16 years of experience in userland systems development.
 
 - 2026-11-24, puron: [Puron is in the COSMIC Flatpak repository](https://elalonde.dev/log/2026-11-24-puron/)
 - 2026-11-23, puron: [puron 1.7.0](https://elalonde.dev/log/2026-11-23-puron-1.7.0/)
-- 2026-11-20, puron: [puron 1.6.0](https://elalonde.dev/log/2026-11-20-puron-1.6.0/)
+- 2026-11-22, puron: [puron 1.6.1](https://elalonde.dev/log/2026-11-22-puron-1.6.1/)
 
 All entries: [elalonde.dev/log](https://elalonde.dev/log/)
